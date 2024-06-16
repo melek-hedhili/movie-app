@@ -19,6 +19,6 @@ This is a mobile app that displays details about movies, including posters, titl
 ## How to Run
 1. Clone the repository
 2. Navigate to the project directory
-3. Run `$ yarn` or `$ npm install`
-4. Run the project with `$ yarn` start or `$ npx expo start`
+3. Run `yarn` or `npm install`
+4. Run the project with `yarn` start or `npx expo start`
 5. Scan the QR code
