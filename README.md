@@ -7,8 +7,10 @@ This is a mobile app that displays details about movies, including posters, titl
 - Implement fetching movie details from OMDB API.
 - Display movie details including title, poster, release date, runtime, genres, and description.
 - Display additional details such as director, actors, and box office.
-- Search functionality (debounce)
-- Segmented Control (Movies , Series and Episodes)
+- Handling loading and empty data statements.
+- Search functionality (debounce).
+- Segmented Control (Movies , Series and Episodes).
+- Pagination (As long as you keep scrolling).
 - Animated transitions and UI elements.
 - Add support for light and dark themes.
 
